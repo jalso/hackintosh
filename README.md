@@ -5,7 +5,7 @@ Hackintosh build for an i9-10900K on an MSI MPG Z490 Gaming Edge Wi-Fi
 - OpenCore v0.6.7
 - macOS Catalina 10.15.7
 
-## [Build Specs](https://pcpartpicker.com/list/9b7GYg)
+## Build Specs
 - Intel Core i9-10900K
 - MSI MPG Z490 Gaming Edge Wi-Fi
     - Audio: Realtek ALC1200-VD1
