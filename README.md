@@ -12,7 +12,7 @@ Hackintosh build for an i9-10900K on an MSI MPG Z490 Gaming Edge Wi-Fi
     - LAN: Realtek RTL8125B 2.5G
     - Wireless Card & Bluetooth: Intel AX201
 - 32 GB RAM
-- Integrated Graphics card
+- Intel UHD Graphics 630
 
 ## What's tested and working?
 
